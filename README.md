@@ -1,2 +1,2 @@
 # mendis
-Portfolio of the Great mends
+Portfolio of the Great mendis
